@@ -14,7 +14,7 @@ export default function Hero() {
           </h1>
 
           <p className="text-gray-500 text-base md:text-lg mt-6 mb-8 md:mb-12">
-            Appropriately embrace transparent materials via turnkey niche markets.
+            Gentle, modern dental care for the whole family. Book your visit online in minutes.
           </p>
 
           <div className="flex gap-4 md:gap-6 justify-center md:justify-start">

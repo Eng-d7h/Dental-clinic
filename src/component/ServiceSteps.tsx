@@ -24,9 +24,9 @@ export default function ServiceSteps() {
           <div className="bg-white rounded-2xl w-32 h-32 md:w-40 md:h-40 flex flex-col items-center justify-center">
             <CalendarDays size={28} />
             <p className="text-center mt-3 md:mt-4 text-sm md:text-base">
-              Get a
+              Choose your
               <br />
-              Date & Serial
+              Date & Time
             </p>
           </div>
 

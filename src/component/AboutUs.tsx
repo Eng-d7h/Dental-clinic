@@ -15,15 +15,15 @@ export default function AboutUs() {
 
   const stats = [
     {
-      number: "10+",
+      number: "10K+",
       title: "Years Experience",
     },
     {
-      number: "5000+",
+      number: "5K+",
       title: "Happy Patients",
     },
     {
-      number: "15+",
+      number: "3K+",
       title: "Expert Doctors",
     },
   ];
